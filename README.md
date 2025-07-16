@@ -1,1 +1,1 @@
-# csp2
+# inter-diploma
